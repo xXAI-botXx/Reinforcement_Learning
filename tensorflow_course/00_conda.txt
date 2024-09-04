@@ -1,0 +1,26 @@
+- conda env list
+	Listet alle Python-Anaconda Environment auf
+
+- conda activate x
+
+- conda install y
+- pip install y
+	-> better use pip
+
+- conda create -n name_of_env
+
+- pip install jupyter lab
+
+
+xxxxxxxxxxxxxxxxxx
+Pro tip:
+xxxxxxxxxxxxxxxxxx
+use shift + Tab to show parameters in Jupyter labs
+
++
+
+use Tab for autocompletion
+
++
+
+use help(...) for parameter and help with function, classes, ...

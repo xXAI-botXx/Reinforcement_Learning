@@ -1,0 +1,4 @@
+Lade eine Super AMrio gym env und trainiere/erschaffe einen Agenten hierfür
+
+Oder erstelle deine eigene environment (DbD 2D?) und erstelle hierfür einen Agenten
+

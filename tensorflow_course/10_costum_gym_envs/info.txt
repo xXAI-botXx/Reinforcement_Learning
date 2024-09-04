@@ -1,0 +1,16 @@
+After setting up your gym env, you have to register your env:
+
+pip install -e my_env_name
+
+
+Anleitung:
+
+1. open a terminal
+2. activate your python env
+3. change directory to the folder where the env folder is
+	-> cd 'D:\Informatik\Project-Lake\Reinforcement Learning\10_costum_gym_envs'
+	-> D:
+      -> check with 'dir' keyword
+4. pip install -e snake
+5. 
+
